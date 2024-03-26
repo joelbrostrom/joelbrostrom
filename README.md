@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=joelbrostrom&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=joelbrostrom&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 <!--
 **joelbrostrom/joelbrostrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
