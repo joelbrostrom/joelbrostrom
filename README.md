@@ -1,5 +1,8 @@
+<!--[![Joels's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=joelbrostrom&theme=gotham&days=90)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=joelbrostrom&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=joelbrostrom&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!--
