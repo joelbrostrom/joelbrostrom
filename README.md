@@ -9,7 +9,7 @@
     </td>
     <td width="50%" align="center" valign="middle">
       <img
-        src="https://github-readme-stats-liart-iota-39.vercel.app/api?username=joelbrostrom&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&custom_title=joelbrostrom's%20stats&rank_icon=percentile&show_icons=true&icon_color=428EEE&ring_color=428EEE&show_owner=true&show=reviews,prs_merged_percentage"
+        src="https://github-readme-stats-liart-iota-39.vercel.app/api?username=joelbrostrom&theme=tokyonight&include_all_commits=false&hide_border=true&bg_color=00000000&custom_title=joelbrostrom's%20stats&rank_icon=percentile&show_icons=true&icon_color=428EEE&ring_color=428EEE&show_owner=true&show=reviews,prs_merged_percentage"
         width="100%"
         alt="joelbrostrom's stats"
       />
